@@ -3,11 +3,12 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   compatibilityDate: "2024-07-04",
   css: ['~/assets/css/main.css'],
-  modules: ["@nuxtjs/i18n", "@nuxt/image","vue-sweetalert2/nuxt"],
+  modules: ["@nuxtjs/i18n", "@nuxt/image"],
   postcss: {
     plugins: {
       tailwindcss: {},
       autoprefixer: {},
     },
   },
+
 })
