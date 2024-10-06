@@ -1,0 +1,24 @@
+{
+  "home": "Anasayfa",
+  "about": "Hakkımda",
+  "blog": "Blog",
+  "myWork": "Projelerim",
+  "contact": "İletişim",
+  "entry": "Merhaba Ben",
+  "name": "Yunus Emre Fersiz",
+  "entryText1": "Açık fikirli",
+  "entryText2": "ve çözüm odaklı anlayışa sahip bir",
+  "entryText3": "Ön Uç Geliştiriciyim",
+  "personalInfo": "Ön Uç Geliştirici olarak, sade, kullanıcı dostu uygulamalar oluşturmaya büyük bir tutkuyla bağlıyım. Yeni şeyler öğrenme ve keşfetme isteği ile işbirliğine dayalı bir ekip ortamında en iyi sonuçları elde etmeyi hedefliyorum.",
+  "eagerTitle": "Öğrenmeye Açık",
+  "eagerText": "Yeni beceriler öğrenmeye ve en son teknolojiler ve trendlerle güncel kalmaya her zaman hevesliyim. Bu alanda başarılı olmanın, gelişim odaklı bir zihniyete sahip olmanın önemli olduğuna inanıyorum",
+  "communicationTitle": "İletişim Becerileri",
+  "communicationText": "Hem çalışma arkadaşlarımla hem de müşterilerle fikirlerimi açık ve anlaşılır bir şekilde ifade etmenin, herkesin aynı noktada olmasını sağlamak için önemli olduğunu biliyorum.",
+  "team": "Takım Oyuncusu",
+  "teamText": "Parçası olduğum ekiple uyum içinde çalışmanın, projelerde başarıya ulaşmak için yapılması gerekenlerin vazgeçilmez bir parçası olduğuna inanıyorum.",
+  "aboutShort1":" Merhaba, ben Yunus Emre. 28 yaşındayım ve İzmir Katip ÇelebiÜniversitesi Geomatik Mühendisliği mezunuyum. Eğitim hayatımın 3.sınıfında aldığım Arcgis dersiyle yazılıma olan ilgim başladı ve bu ilgi, mezuniyet sonrası front-end development alanına yönelmem ile devam etti ve son 2.5 yıldır tam zamanlı Frontend Developer olarak çalışıyorum.",
+  "aboutShort2p1":"Kariyerim boyunca birçok frontend development kütüphanesini öğrenme fırsatım oldu.",
+  "aboutShortSkills":"Vue Js, Nuxt Js, Tailwind, Pinia ,Axios, SASS , Webpack, Vitest.",
+  "aboutShort2p2":"gibi birçok farklı kütüphanede tecrübe edindim."
+
+}

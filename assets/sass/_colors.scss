@@ -1,0 +1,27 @@
+$theme-orange:#f75023 ;
+$theme-green:#1cbe59;
+$theme-purple:#6e50f0;
+$muted:#6f6b80;
+$theme-black:#0C090A;
+
+$colors: (
+  orange: #f75023,
+  green: #1cbe59,
+  purple: #6e50f0,
+  muted: #6f6b80,
+);
+
+@mixin generate-color-classes($color-map) {
+  @each $name, $color in $color-map {
+    .text-#{$name} {
+      color: $color;
+    }
+
+    .bg-#{$name}{
+        background-color: $color;
+    }
+    
+  }
+}
+
+@include generate-color-classes($colors);
